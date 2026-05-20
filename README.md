@@ -24,7 +24,7 @@ Includes a simple desktop GUI and an optional CLI.
 ## Install
 
 ```bash
-cd c:\Users\madeeha\Projects\suleiman
+cd ~\suleiman
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
